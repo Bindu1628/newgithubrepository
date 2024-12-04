@@ -1,2 +1,4 @@
-# newgithubrepository
-my first githubrepository in vs code
+First Name:Miss
+Last Name:Bindu DG
+Email ID:bindugudlar@gmail.com
+Mobile Number:8088289941
